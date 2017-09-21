@@ -7,7 +7,7 @@
 <body>
 <h1>哈囉~~~~~</h1>
 <?php
-    echo "this is ......"
+echo "this is ......"
 ?>
 </body>
 </html>
