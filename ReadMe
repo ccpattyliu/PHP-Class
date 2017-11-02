@@ -1,0 +1,9 @@
+
+-安裝date time 套件，要先切到專案目錄底下
+>composer require nesbot/carbon
+
+-初始化套件
+用composer初始化建立一個專案，會要你填寫一些資料
+>vagrant.exe ssh
+>cd Code/public
+>composer init
