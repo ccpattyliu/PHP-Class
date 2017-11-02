@@ -6,5 +6,7 @@
             "email": "cc.pattyliu@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^1.22"
+    }
 }
