@@ -1,0 +1,10 @@
+{
+    "name": "pattyphp/co",
+    "authors": [
+        {
+            "name": "ccpattyliu",
+            "email": "cc.pattyliu@gmail.com"
+        }
+    ],
+    "require": {}
+}
